@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can split your bill with your friends easily.
 
-Currently, two official plugins are available:
+-Add your friend.
+-Fill necessary information,(bill,your expense and who is paying the bill)
+-Click Split Bill button
+See who owes you or vice versa
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screen Shot 2023-11-16 at 21 41 28 PM](https://github.com/ecagataydogan/react-eat-n-split/assets/101594855/f474e105-aa54-400f-b6ce-d803c1688ad1)
+
+
+
+
